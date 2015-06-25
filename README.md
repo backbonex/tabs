@@ -6,7 +6,7 @@ Backbone.View-based Tabs. Saves state in the window's anchor.
 To install the latest version with bower:
 
 ```sh
-> bower install backbone.anchor --save
+> bower install backbone.tabs --save
 ```
 
 ## Initialization
