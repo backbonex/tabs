@@ -31,7 +31,8 @@
     "backbone-super": "~1.0.4",
     "backbone.view.elements": "~1.0.1",
     "backbone.factory": "~1.1.0",
-    "backbone.anchor": "~1.0.1"
+    "backbone.anchor": "~1.0.1",
+    "backbone.mix": "~1.0.1"
   },
   "devDependencies": {
     "mocha": "~2.0.1",
